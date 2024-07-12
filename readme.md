@@ -10,6 +10,8 @@ Projeto de agenda pessoal construído no curso de Javascript e TypeScript - fron
 - Webpack;
 - Express;
 - MongoDB;
+- Google Cloud Platform;
+- SSH;
 - PM2;
 - Nginx.
 
